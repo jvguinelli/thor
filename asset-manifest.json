@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/thor/static/css/main.5f361e03.chunk.css",
-    "main.js": "/thor/static/js/main.6be1296b.chunk.js",
-    "main.js.map": "/thor/static/js/main.6be1296b.chunk.js.map",
+    "main.js": "/thor/static/js/main.e9abde74.chunk.js",
+    "main.js.map": "/thor/static/js/main.e9abde74.chunk.js.map",
     "runtime-main.js": "/thor/static/js/runtime-main.cdc7e6a5.js",
     "runtime-main.js.map": "/thor/static/js/runtime-main.cdc7e6a5.js.map",
     "static/js/2.e8ad6878.chunk.js": "/thor/static/js/2.e8ad6878.chunk.js",
     "static/js/2.e8ad6878.chunk.js.map": "/thor/static/js/2.e8ad6878.chunk.js.map",
     "index.html": "/thor/index.html",
-    "precache-manifest.86d2d30fd2658c0a231e2ea991d185bf.js": "/thor/precache-manifest.86d2d30fd2658c0a231e2ea991d185bf.js",
+    "precache-manifest.8c9b3178dc5e73ff1c5682e7e0b95f89.js": "/thor/precache-manifest.8c9b3178dc5e73ff1c5682e7e0b95f89.js",
     "service-worker.js": "/thor/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/thor/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.e8ad6878.chunk.js.LICENSE.txt": "/thor/static/js/2.e8ad6878.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cdc7e6a5.js",
     "static/js/2.e8ad6878.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6be1296b.chunk.js"
+    "static/js/main.e9abde74.chunk.js"
   ]
 }
